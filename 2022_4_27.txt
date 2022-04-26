@@ -1,0 +1,2 @@
+Read TCL chapter 1
+Read HLS chapter 4
