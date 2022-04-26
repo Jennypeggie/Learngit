@@ -3,3 +3,4 @@ Read HLS chapter 4
 Read VE280 chapter 1
 Watch Linear Algebra 
 Watch Stack Houjie C++
+Practice on Discrete Maths
