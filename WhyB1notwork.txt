@@ -1,0 +1,1 @@
+We need to tape "git push origin B1" to push things to B1. When we need to push things to main branch, we only need git push.
